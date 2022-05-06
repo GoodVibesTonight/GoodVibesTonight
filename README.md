@@ -1,9 +1,9 @@
 👋 **Hello there**... General Kenobi >>:)
 
 **Currently:**
- I'm a beginner coder with experience in C++, HTML/CSS, Bash, Typescript, Javascript, and MySQL.
+ I'm a beginning programmer with experience in C++, HTML/CSS, Bash, Typescript, Javascript, and MySQL.
      - Still learning :)
 
 **Bio:**
  I'm not really one for talking about myself, I love learning about cybersecurity, network administration, and IT in general.
-    If you are looking to collaborate or just to talk, you can reach me by taking the red pill or pming me :) 
+    If you are looking to collaborate or just to talk send me a pm! :) 
